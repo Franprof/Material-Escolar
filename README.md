@@ -33,7 +33,7 @@
 <p><font color="reed">Mochila Escolar</p><img src="https://static3.depositphotos.com/1000616/115/i/450/depositphotos_1155576-stock-photo-red-school-rucksack.jpg" width="150" height="150">
 
   <p> Compasso</p>
-  <p> Tranferidor</p>
+  <p> Transferidor</p>
   <p> Esquadro</p>
             
                  
