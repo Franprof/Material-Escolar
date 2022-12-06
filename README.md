@@ -22,7 +22,7 @@
 <p><font color="color: #00FFFF">Folhas de Sufite</p><img src="https://images-americanas.b2w.io/produtos/01/00/img/1887371/3/1887371346_1SZ.jpg" width=150 height="150">
 
 <p><font color="color: #FF00FF">Caderno de Arte</p><img src= "https://files.expanssiva.com.br/products/500x500/reciclado.jpg" width=150 height="150">
- <p>Régua </p><img src= https://www.armarinhosaojose.com.br/octopus/design/images/94/products/b/regua-serena-3112-30cm-wp-rosa-pastel.jpg width=150 height="150">
+ <p>Régua </p><img src= "https://www.armarinhosaojose.com.br/octopus/design/images/94/products/b/regua-serena-3112-30cm-wp-rosa-pastel.jpg" width=150 height="150">
   
                  
 <p><font color="peache"> Lápis de cor</p>
@@ -32,11 +32,11 @@
              
 <p><font color="reed">Mochila Escolar</p><img src="https://static3.depositphotos.com/1000616/115/i/450/depositphotos_1155576-stock-photo-red-school-rucksack.jpg" width="150" height="150">
 
-  <p> Compasso</p>
-  <p> Transferidor</p>
-  <p> Esquadro</p>
+  <p><font color="blue"> Compasso</p><img src="https://cdn.awsli.com.br/300x300/787/787818/produto/86057572/4d5191b688.jpg" width="150" height="150">
+  <p><font color="blek"> Transferidores</p>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Transferidor.PNG/220px-Transferidor.PNG" width="150" height="150">
+  <p><font color="magenta"> Esquadro</p> <img src="https://images.tcdn.com.br/img/img_prod/565222/esquadro_45_graus_waleu_502001007_1_20190320171051.jpg " width="150" height="150">
             
                  
-  <p> Uniforme</p>
+  <p><font color="red"> Uniforme</p> <img src=" " width="150" height="150">
                  
                  
